@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\week1",
+    "\\app\\week2",
     "\\public"
   ],
+  "SelectedNode": "\\app\\page.js",
   "PreviewInSolutionExplorer": false
 }
