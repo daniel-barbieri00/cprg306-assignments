@@ -4,7 +4,7 @@ export default function StudentInfo() {
             <div>
                 <p>Name: Daniel Barbieri</p>
                 <p>Course Section: CPRG-306-E</p>
-                <p>https://github.com/daniel-barbieri00/cprg306-assignments</p>
+                <a href="https://github.com/daniel-barbieri00/cprg306-assignments">My GitHub Assignments</a>
             </div>
         </>
     )

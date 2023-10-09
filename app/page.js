@@ -1,8 +1,8 @@
 ﻿import Link from "next/link";
 
 export default function Home() {
-    const weekDemos = [1, 2, 3];
-    const doneUpTo = 3;
+    const weekDemos = [1, 2, 3, 4];
+    const doneUpTo = 4;
 
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -10,7 +10,7 @@ export default function Home() {
                 <h1 className="text-4xl font-bold mb-5">CPRG 306: Web Development 2 - Assignments</h1>
                 <p>Name: Daniel Barbieri</p>
                 <p>Course Section: CPRG 306 E</p>
-                <p>https://github.com/daniel-barbieri00/cprg306-assignments</p>
+                <a href="https://github.com/daniel-barbieri00/cprg306-assignments" className="hover:text-blue-400">My GitHub Assignments</a>
                 <div>
                     <ul>
                         {weekDemos.map((week) =>
