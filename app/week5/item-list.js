@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from 'react';
-import Item from "./Item";
+import Item from "./item";
 import Items from './item.json';
 
 export default function ItemList() {
