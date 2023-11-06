@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\week3",
-    "\\app\\week4",
-    "\\app\\week5",
-    "\\public"
+    "\\app\\week8",
+    "\\app\\week8\\shopping-list",
+    "\\app\\week8\\_utils"
   ],
-  "SelectedNode": "\\app\\layout.js",
+  "SelectedNode": "\\app\\week8\\shopping-list",
   "PreviewInSolutionExplorer": false
 }
